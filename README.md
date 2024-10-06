@@ -25,3 +25,6 @@ With a keen eye for detail and a results-oriented mindset, I am dedicated to cre
 [![](https://visitcount.itsvg.in/api?id=ZaighamCodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Support My Work
+If you find my work helpful, consider supporting me:
+[![Donate](https://img.shields.io/badge/Donate-UPI-yellowgreen)](upi://pay?pa=8210272603@ybl&pn=Md%20Zaigham&cu=INR)
