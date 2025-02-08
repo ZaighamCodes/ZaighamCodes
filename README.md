@@ -32,6 +32,7 @@ With expertise in **JavaScript, MySQL, Docker, and AWS**, I ensure that every ap
 ## 🔗 Connect with Me  
 <p align="left">
   <a href="https://github.com/ZaighamCodes" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/md-zaigham-97b7ba259/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>  
 
