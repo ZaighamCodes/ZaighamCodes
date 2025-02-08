@@ -48,4 +48,4 @@ With expertise in **JavaScript, MySQL, Docker, and AWS**, I ensure that every ap
 ---
 
 ### ☕ Support My Work  
-If you enjoy my work and want to support me, consider **[buying me a coffee](https://www.buymeacoffee.com/ZaighamCodes)**! Your support helps me stay motivated and keep building awesome things. 🚀  
+If you enjoy my work and want to support me, consider **[buying me a coffee](https://www.buymeacoffee.com/mdzaigham2f)**! Your support helps me stay motivated and keep building awesome things. 🚀  
