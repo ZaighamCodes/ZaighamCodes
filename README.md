@@ -1,4 +1,6 @@
 💫 About Me:
+
+
 Hi, I'm Md Zaigham, a passionate Full-Stack Developer with expertise in building dynamic, scalable, and high-performance web applications. I specialize in React.js, Next.js, Django REST Framework, Java, and Spring Boot, crafting seamless user experiences and robust backend architectures.
 
 With a strong foundation in frontend and backend development, I enjoy tackling complex challenges and creating intuitive solutions that enhance user interaction. My tech stack includes JavaScript, Python, MySQL, and AWS, ensuring secure, efficient, and maintainable applications.
