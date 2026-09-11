@@ -8,9 +8,9 @@ With expertise in **JavaScript, MySQL, Docker, and AWS**, I ensure that every ap
 
 ### 💡 About Me  
 - 🌍 **Based in:** India  
-- 🖥️ **Portfolio:** [zaigham.tech](http://www.zaigham.tech)  
+- 🖥️ **Portfolio:** [zaigham.tech](https://mdzaigham.vercel.app/)  
 - ✉️ **Contact me:** [mdzaigham27@gmail.com](mailto:mdzaigham27@gmail.com)  
-- 🚀 **Currently working on:** [JobPortal](http://jobportal-one-sigma.vercel.app/)  
+- 🚀 **Currently working on:** [JobPortal](https://docspot.in)  
 - 🧠 **Learning:** Docker, Microservices  
 - 🤝 **Open to collaboration on:** Spring Boot projects  
 
