@@ -2,9 +2,9 @@
 
 ### 🚀 Software Developer | Full-Stack Engineer  
 
-I'm a **Full-Stack Developer** with **over a year of experience** in building **dynamic, scalable, and high-performance web applications**. I specialize in **React.js, Java, and Spring Boot**, focusing on crafting seamless user experiences and robust backend architectures.  
+I'm a **Full-Stack Developer** with **over a year of experience** in building **dynamic, scalable, and high-performance web applications**. I specialize in **React.js, Angular, Java, and Spring Boot**, focusing on crafting seamless user experiences and robust backend architectures.  
 
-With expertise in **JavaScript, MySQL, Docker, and AWS**, I ensure that every application I build is **secure, efficient, and maintainable**. I thrive on tackling complex challenges and love learning new technologies to stay ahead in the industry.  
+With expertise in **JavaScript, MySQL**, I ensure that every application I build is **secure, efficient, and maintainable**. I thrive on tackling complex challenges and love learning new technologies to stay ahead in the industry.  
 
 ### 💡 About Me  
 - 🌍 **Based in:** India  
